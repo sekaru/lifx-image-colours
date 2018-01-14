@@ -1,7 +1,7 @@
 {
-  "name": "image-colours-lifx",
+  "name": "lifx-image-colours",
   "version": "1.0.0",
-  "description": "Set LIFX bulb colour to an image's colours",
+  "description": "A tiny script to scroll your bulb's colours through an image's colours",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
